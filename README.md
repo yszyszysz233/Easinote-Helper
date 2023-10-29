@@ -1,3 +1,4 @@
+# 还未完成！！！
 # 软件介绍
 用来自动保存希沃白板笔记
 https://www.bilibili.com/video/BV1oN4y1C7Gf/
